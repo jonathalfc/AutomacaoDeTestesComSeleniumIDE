@@ -2,8 +2,10 @@
 
 Link para o plugin do Selenium IDE para Firefox: https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
 
-<p>Comandos de Verificação:</p>
+##Comandos de Verificação
 
- Verify: Caso de erro para a execução do programa.
+<strong>Verify:</strong> Caso seja encontrado algum erro nos testes, o script é parado imediatamente.
 
-Assert: Caso de erro Não para a execução do programa.
+<strong>Assert:</strong> Caso seja encontrado algum erro nos testes, o script continuará a sua execução ate o fim de todos os testes.
+
+O Uso entre Verify e Assert dependerá do resultado esperado pelo testador.
