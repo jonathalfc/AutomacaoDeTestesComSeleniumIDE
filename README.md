@@ -1,4 +1,4 @@
-# Automacao De Testes Com Selenium IDE
+# Automacão De Testes Com Selenium IDE
 
 Link para o plugin do Selenium IDE para Firefox: https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
 
